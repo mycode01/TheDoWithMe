@@ -14,6 +14,7 @@ namespace TheDoWithMe
     {
         public Form1()
         {
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
             InitializeComponent();
         }
 
@@ -33,6 +34,28 @@ namespace TheDoWithMe
                 
                 MessageBox.Show(body);
             }
+        }
+
+        private void checkBox1_CheckStateChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+            {
+                mb_password.Visible = false;
+                label2.Visible = false;
+                mb_password.Text = "";
+            }
+            else
+            {
+                mb_password.Visible = true;
+                label2.Visible = true;
+            }
+        }
+
+        private void ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 help = new Form2();
+            help.ShowDialog();
+
         }
     }
 }
