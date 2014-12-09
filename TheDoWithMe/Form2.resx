@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>오래간만입니다. 
+작년에 JSP + JQUERY로 만들어 두었던 소스를 소실해 별거 없지만 C#으로 작성해 보았습니다.
+막상 테스트 해보니 curl로 만든 스크립트가 더 간편하고 쉽더라구요.. 네... 
+한 5분쯤. 노다지(no touch)와 더듬이 중에서 고민을 많이 했는데요.
+역시 성희롱 하면 더듬더듬 아니겠습니까. 그래서 더듬이입니다.
+아무도 묻지 않을 이런 정신나간 이유를 설명하고 있자니 썰렁한 개그를 하고 개그설명 하는거 같네요.
+내년에 또 수정이 필요할진 모르지만 제일 아래 소스파일이 있는 git주소 남겨둡니다.
+'이새끼 이거 로그인 비밀번호를 훔칠거같다!' 싶으시면 소스도 보고 좋지 않습니까
+아무튼 마음에 드셨으면 좋겠습니다. 2014/12/09</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>이하 간단한 설명입니다.
+아이디와 패스워드는 따로 설정하지 않으셨다면 회사 메일에 첨부된 엑셀파일에 따라 
+'아이디 = 패스워드'(rnb0000 형식) 입니다.
+default password는 따로 설정 하신 분(계실까 싶지만요)을 위해 만든 옵션이고요.
+work slowly 체크를 풀어주시면 바로 예방교육 스킵 작업이 끝나는데요.
+강의일이 똑같이 찍혀버리기 때문에 찜찜해서 만든 옵션입니다.
+'남자는 이런것 신경쓰지 않는다' 하시는 분들은 체크 풀고 스킵버튼 눌러주시면 됩니다.
+그게 아니시라면 스킵버튼 눌러두시고 일 하세요 일. 끝나면 메시지 창 뜰겁니다.</value>
+  </data>
 </root>
