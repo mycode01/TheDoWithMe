@@ -55,7 +55,7 @@
             // mb_id
             // 
             this.mb_id.Location = new System.Drawing.Point(126, 40);
-            this.mb_id.MaxLength = 7;
+            this.mb_id.MaxLength = 14;
             this.mb_id.Name = "mb_id";
             this.mb_id.Size = new System.Drawing.Size(81, 21);
             this.mb_id.TabIndex = 1;
@@ -108,7 +108,7 @@
             // mb_password
             // 
             this.mb_password.Location = new System.Drawing.Point(126, 68);
-            this.mb_password.MaxLength = 20;
+            this.mb_password.MaxLength = 14;
             this.mb_password.Name = "mb_password";
             this.mb_password.Size = new System.Drawing.Size(81, 21);
             this.mb_password.TabIndex = 6;
